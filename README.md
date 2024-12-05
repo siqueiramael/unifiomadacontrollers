@@ -35,8 +35,8 @@ Este guia fornece instruções detalhadas para instalar os controladores UniFi e
 ## Instalação Rápida
 
 ```bash
-git clone https://github.com/seu-usuario/unifi-omada-docker
-cd unifi-omada-docker
+git clone https://github.com/siqueiramael/unifiomadacontrollers
+cd unifiomadacontrollers
 chmod +x *.sh
 ./install.sh
 ```
